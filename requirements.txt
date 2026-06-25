@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+groq
+python-dotenv
+pypdf
+sentence-transformers
+faiss-cpu
+torch
+transformers
+huggingface-hub
+numpy
+pandas
+scikit-learn
